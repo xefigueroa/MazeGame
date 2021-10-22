@@ -26,6 +26,7 @@ To play the game, you need to know these:
 * `right arrow key/D key` - To move to the right
 * `up arrow key/W key` - To move upward
 * `down arrow key/S key` - To move backward
+* `mouse` - To move cam
 
 ## File Descriptions
 
