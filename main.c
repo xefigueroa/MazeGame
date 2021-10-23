@@ -17,7 +17,7 @@ int main(void)
 		draw_stuff(instance);
 		SDL_RenderPresent(instance.renderer);
 	}
-	SDL_DestroyRenderer(instance.renderer);
+	DL_DestroyRenderer(instance.renderer);
 	SDL_DestroyWindow(instance.window);
 	SDL_Quit();
 	return (0);

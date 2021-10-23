@@ -3,12 +3,13 @@
 
 #include <SDL2/SDL.h>
 #include <stdio.h>
+#include <stdbool.h>
 
 typedef struct SDL_Instance
 {
 	SDL_Window *window;
 	SDL_Renderer *renderer;
-	SDL_Surface *screenSurface;
+	SDL_Texture *texture;
 } SDL_Instance;
 
 int init_instance(SDL_Instance *instance);
