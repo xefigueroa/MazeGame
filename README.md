@@ -22,17 +22,18 @@ This game uses Simple DirectMedia Layer (SDL2) and Raycasting
 
 ## Controls
 To play the game, you need to know these:
-* `left arrow key/A key` - To move to the left
-* `right arrow key/D key` - To move to the right
+* `left arrow key/A key` - To rotate camera to the left
+* `right arrow key/D key` - To rotate camera to the right
 * `up arrow key/W key` - To move upward
 * `down arrow key/S key` - To move backward
-* `mouse` - To move cam
+* `ESC key/X button/Win Goal` - To close window
 
 ## File Descriptions
 
 
 ## Examples of use
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ke0hnLLLQuI/0.jpg)](https://www.youtube.com/watch?v=Ke0hnLLLQuI)
 
 ## Bugs
 No known bugs at this time. 
