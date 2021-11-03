@@ -28,7 +28,7 @@ To play the game, you need to know these:
 * `ESC key/X button/Win Goal` - To close window
 
 ## Examples of use
-In the next link to a YouTube video, you can see how the game works:
+If you click the image above it will take you to a YouTube video in where you can see how the game works:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ke0hnLLLQuI/0.jpg)](https://www.youtube.com/watch?v=Ke0hnLLLQuI)
 
 ## Bugs
