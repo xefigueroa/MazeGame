@@ -1,10 +1,14 @@
 #include "maze.h"
 
+/**
+ * init_instance - Initializes SDL2, window & renderer instances
+ * @instance: Instance that will be initialized
+ * Return: 0 Success 1 Fail
+ **/
 int init_instance(SDL_Instance *instance)
 {
 	instance->window = NULL;
 	instance->renderer = NULL;
-	instance->texture = NULL;
 
 	/* Initialize SDL */
 	if (SDL_Init(SDL_INIT_VIDEO) != 0)
@@ -15,7 +19,7 @@ int init_instance(SDL_Instance *instance)
 
 	/* Create a new window instance */
 	instance->window = SDL_CreateWindow("Maze Game", SDL_WINDOWPOS_CENTERED,
-			SDL_WINDOWPOS_CENTERED, 1260, 720, SDL_WINDOW_SHOWN);
+			SDL_WINDOWPOS_CENTERED, SCREEN_WIDTH, SCREEN_HEIGHT, 0);
 
 	if (instance->window == NULL)
 	{
@@ -35,18 +39,5 @@ int init_instance(SDL_Instance *instance)
 		SDL_Quit();
 		return (1);
 	}
-
-	/* Create texture instance */
-	instance->texture = SDL_CreateTexture(instance->renderer, SDL_PIXELFORMAT_ARGB8888,
-			SDL_TEXTUREACCESS_STREAMING, 1260, 720);
-
-	if (instance->texture == NULL)
-	{
-		printf("Texture not initialized SDL_Error: %s\n", SDL_GetError());
-		SDL_DestroyWindow(instance->window);
-		SDL_Quit();
-		return (1);
-	}
 	return (0);
 }
-
