@@ -5,7 +5,6 @@ A game created by two Holberton School students for the last trimester project.
 * [Environment](#environment)
 * [Installation](#installation)
 * [Controls](#controls)
-* [File Descriptions](#file-descriptions)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
 * [Authors](#authors)
@@ -28,15 +27,12 @@ To play the game, you need to know these:
 * `down arrow key/S key` - To move backward
 * `ESC key/X button/Win Goal` - To close window
 
-## File Descriptions
-
-
 ## Examples of use
-
+In the next link to a YouTube video, you can see how the game works:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ke0hnLLLQuI/0.jpg)](https://www.youtube.com/watch?v=Ke0hnLLLQuI)
 
 ## Bugs
-No known bugs at this time. 
+Only known bug its that it shows you a segmentation fault when winning or closing the window and we couldn't find why, beside that, none other bug found.
 
 ## Authors
 Xavier Figueroa - [Github](https://github.com/xefigueroa)..
