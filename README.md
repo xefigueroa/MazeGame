@@ -19,6 +19,7 @@ This game uses Simple DirectMedia Layer (SDL2) and Raycasting
 ## Installation
 * Clone this repository: `git clone "https://github.com/xefigeroa/MazeGame"`
 * Access The Maze directory: `cd MazeGame`
+* Compile the files with: `make all`
 * Run the executable with the map you want to play: `./maze maps/presentation`
 
 ## Controls
