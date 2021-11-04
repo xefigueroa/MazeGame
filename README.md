@@ -8,6 +8,7 @@ A game created by two Holberton School students for the last trimester project.
 * [Installation](#installation)
 * [Controls](#controls)
 * [Examples of use](#examples-of-use)
+* [Related Projects](#related_projects)
 * [Bugs](#bugs)
 * [Authors](#authors)
 * [License](#license)
