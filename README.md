@@ -15,9 +15,8 @@ This game uses Simple DirectMedia Layer (SDL2) and Raycasting
 
 ## Installation
 * Clone this repository: `git clone "https://github.com/xefigeroa/MazeGame"`
-* Access AirBnb directory: `cd MazeGame`
-* Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+* Access The Maze directory: `cd MazeGame`
+* Run the executable with the map you want to play: `./maze maps/presentation`
 
 ## Controls
 To play the game, you need to know these:
