@@ -1,5 +1,7 @@
 # The Maze Game
 A game created by two Holberton School students for the last trimester project.
+[Here](https://237762.wixsite.com/mazegame) you can go to the deployed site
+[Here]() you can find a blog we made
 
 ## Table of Content
 * [Environment](#environment)
@@ -29,6 +31,10 @@ To play the game, you need to know these:
 ## Examples of use
 If you click the image above it will take you to a YouTube video in where you can see how the game works:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ke0hnLLLQuI/0.jpg)](https://www.youtube.com/watch?v=Ke0hnLLLQuI)
+
+## Related Projects
+This project its similar to Wolfenstein and Doom
+![](https://www.sapphirenation.net/-/media/sites/sapphirenation/articles/2017/09/Wolf-3d-gameplay.jpg) ![](https://cdn.cloudflare.steamstatic.com/steam/apps/2280/ss_04a2879c2d052e9fb4a50380ddb00f660cc19dc3.600x338.jpg?t=1600098964)
 
 ## Bugs
 Only known bug its that it shows you a segmentation fault when winning or closing the window and we couldn't find why, beside that, none other bug found.
