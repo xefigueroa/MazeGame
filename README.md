@@ -1,6 +1,6 @@
 # The Maze Game
-A game created by two Holberton School students for the last trimester project.
-[Here](https://237762.wixsite.com/mazegame) you can go to the deployed site
+A game created by two Holberton School students for the last trimester project.  
+[Here](https://237762.wixsite.com/mazegame) you can go to the deployed site  
 [Here]() you can find a blog we made
 
 ## Table of Content
@@ -8,7 +8,7 @@ A game created by two Holberton School students for the last trimester project.
 * [Installation](#installation)
 * [Controls](#controls)
 * [Examples of use](#examples-of-use)
-* [Related Projects](#related_projects)
+* [Related Projects](#related-projects)
 * [Bugs](#bugs)
 * [Authors](#authors)
 * [License](#license)
@@ -42,8 +42,8 @@ This project its similar to Wolfenstein and Doom
 Only known bug its that it shows you a segmentation fault when winning or closing the window and we couldn't find why, beside that, none other bug found.
 
 ## Authors
-Xavier Figueroa - [Github](https://github.com/xefigueroa)..
-Luis Melendez - [Github](https://github.com/luismelendez94)..
+Xavier Figueroa - [Github](https://github.com/xefigueroa)  
+Luis Melendez - [Github](https://github.com/luismelendez94)
 
 ## License
 Public Domain. No copy write protection. 
